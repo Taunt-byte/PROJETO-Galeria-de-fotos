@@ -29,15 +29,17 @@ Projeto do Curso Web Moderno Completo com JavaScript 2021 onde o aluno deve cons
 
 Para instalar esse repositorio basta colocar esse codigo em seu terminal.
 
-    git clone 
+    git clone https://github.com/Taunt-byte/PROJETO-Galeria-de-fotos.git
 
 ## Como usar
 
-Falar como deve ser usado e explicar as funções do arquivo
+Para utilizar basta abrir o index.html em qualquer navegador da web.
 
 ## Pre Requisitos
 
-Falar sobre o que precisa para rodar o programa e como
+1)Possuir a tecnologia Git sem ela a copia desse repositorio é no minimo complexa.
+
+2)Ter uma boa IDE para se abrir e editar esse repositorio se for de sua vontade.
 
 ## Tecnologias
 
